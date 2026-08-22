@@ -1,5 +1,7 @@
 # Attention Mechanism Type and Lost-in-the-Middle in Small Language Models
 
+<img width="1600" height="1176" alt="image" src="https://github.com/user-attachments/assets/2e28757e-f733-4d2f-9530-fd48835677ac" />
+
 Code and results for our controlled needle-in-a-haystack study testing whether 
 attention mechanism type (MHA, GQA, SWA) predicts lost-in-the-middle severity 
 in sub-billion-parameter language models. Submitted to GlobalSouthAI @ NeurIPS 2026.
