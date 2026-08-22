@@ -20,8 +20,8 @@ tested range (16K–32K) — this is architectural reasoning, clearly labeled as
 such in the paper, not additional measured data.
 
 ## Repo structure
-- `notebooks/` — evaluation code (Colab/Kaggle)
-- `results/` — raw result CSVs per model
+- `notebooks/` — evaluation code
+- `results/` — result CSVs per model
 - `figures/` — result plots
 - `paper/` — submission PDF and LaTeX source
 
